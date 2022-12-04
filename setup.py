@@ -6,5 +6,5 @@ setup(name='Snow-World',
       author='Rohan Mathews',
       author_email='rohan.mathews1999@gmail.com',
       url='https://github.com/rohanmathews/Snow-World/',
-      packages=['numpy-1.23.5', 'turtles-1.0.0'],
+      packages=['numpy', 'turtles'],
      )
