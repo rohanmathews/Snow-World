@@ -1,4 +1,4 @@
-from distutils.core import setup
+from setuptools import setup, find_packages
 
 setup(name='Snow-World',
       version='1.0',
@@ -6,5 +6,5 @@ setup(name='Snow-World',
       author='Rohan Mathews',
       author_email='rohan.mathews1999@gmail.com',
       url='https://github.com/rohanmathews/Snow-World/',
-      packages=['numpy', 'turtles'],
-     )
+      packages=find_packages(),
+      )
