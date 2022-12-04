@@ -1,2 +1,2 @@
 # Snow-World
-DSSS Assignment
+Run __init__.py to get colorful snowflakes!!
